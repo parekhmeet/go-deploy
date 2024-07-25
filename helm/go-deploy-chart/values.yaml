@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: parekhmeet/go-deploy
   pullPolicy: IfNotPresent
-  tag: "10100092297"
+  tag: "10100394293"
 
 ingress:
   enabled: false
